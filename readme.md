@@ -4,6 +4,8 @@ The Tailscale Service Manager(TailService) script is a helper script for using T
 
 In the past I used a couple of Gnome Extensions that provided a way to manage the service without the need to terminal commands.  Both of the Gnome Extensions I used stopped working one day and I created this script to make using Tailscale easier.  The script runs in a loop for convenience and can be exited with menu option 5 or ctrl + c.
 
+![TailServiceMenu](https://github.com/velvetnull/TailService/blob/main/TailServiceMenu.png)
+
 ## How to use
 
 * Requirements:
